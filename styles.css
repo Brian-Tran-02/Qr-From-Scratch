@@ -10,7 +10,7 @@ body {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
-  max-width: 900px;
+  max-width: 850px;
 }
 
 .card {
@@ -45,5 +45,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 80vh;
+  min-height: 70vh;
 }
